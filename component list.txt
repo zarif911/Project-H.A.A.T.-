@@ -1,0 +1,11 @@
+1. base v7 - 1, black
+2. dhakna v9 - 1, yellow
+3. gripper component 1 v3 - 2, black
+4. gripper component 2 v4 - 4, black
+5. gripper component 2 gear bottom v2 - 2, black
+6. gripper component 3 v6 - 1, yellow
+7. gripper component 4 v3 - 1, black
+8. gripper component 4 complement v2 - 1, black
+9. gripper main gear v5 - 1, black
+10. link 1 v7 - 1, black
+11. link 2 v4 - 1, black
